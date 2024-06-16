@@ -16,7 +16,6 @@ export default {
 <style scoped>
 :root {
   --primary:;
-  --primary-pale:;
   --primary-lightest:;
   --primary-light:;
   --primary-dark:;
@@ -41,10 +40,5 @@ export default {
   --highlight-1:;
   --highlight-2:;
   --highlight-3:;
-
-  --border-radius:;
-  --lines:;
-  --side-margin:;
-  --content-width:;
 }
 </style>
